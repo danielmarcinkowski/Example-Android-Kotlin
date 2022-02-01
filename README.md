@@ -18,10 +18,10 @@ Visit [docs.readyplayer.me](https://docs.readyplayer.me/) to get started with in
 
 ### Community
 
-Get in touch with the Ready Player Me community over at our [Discord](https://discord.gg/AKhfvr6QmY).
+Get in touch with the Ready Player Me community over at our [Discord](https://discord.gg/readyplayerme).
 
-### Becoming a partner
+### Add Ready Player Me avatars to your app or game
 
-Ready Player Me is already used in over [300+ apps and games](https://readyplayer.me/partners).
+Ready Player Me is already used by [1,000+ developers](https://readyplayer.me/apps).
 
-Want to add Ready Player Me avatars to your own app or game? Apply [here](http://bit.ly/RPMBecomeAPartner) or let us know at [info@wolf3d.io](mailto:info@wolf3d.io).
+Want to add Ready Player Me avatars to your own app or game? [Learn how to become a Partner](https://docs.readyplayer.me/for-partners/become-a-partner).
